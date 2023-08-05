@@ -23,10 +23,8 @@ description coming soon
 ### Backend
 description coming soon
 
-### DevOps
-description coming soon
-
-### Infrastructure
-description coming soon
+### Platform
+- Develop and maintain our Server Infrastructure (Virtual Machines and Docker Containers)
+- Ensure seamless deployment experience for our Frontend and Backend Team
 
 Let's code together and make an impact! 💻🌈
